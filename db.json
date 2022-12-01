@@ -1,0 +1,54 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    },
+    {
+      "name": "Ruby",
+      "id": 1669193351354
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "cards": [
+    {
+      "id": "1",
+      "name": "JavaScript",
+      "active": false
+    },
+    {
+      "id": "2",
+      "name": "Python",
+      "active": true
+    },
+    {
+      "id": "3",
+      "name": "Java",
+      "active": false
+    },
+    {
+      "id": "4",
+      "name": "C++",
+      "active": true
+    },
+    {
+      "name": "Ruby",
+      "id": 1669193593906,
+      "active": true
+    },
+    {
+      "name": "Electron",
+      "id": 1669193762135
+    }
+  ]
+}
